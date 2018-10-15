@@ -1,0 +1,126 @@
+﻿{
+  "URL": {
+    "cak": "http://dev.castinet.org/"
+  },
+
+  "login": {
+    "username": "ptyagi@dminc.com",
+    "password": "Jupiter@20"
+  },
+
+  "ClientSearch": {
+    "Text": "Find an Existing Client",
+    "Month": "07/",
+    "Date": "31/",
+    "Year": "1991"
+  },
+
+  "Welcome": {
+    "Text": "Welcome to CASTiNET 3.0"
+  },
+
+  "LastName": {
+    "Name": "Potter",
+    "Count": "0 search results"
+  },
+
+	"HeadingHo": {
+		"HeadingText": "Household Overview",
+		"EditAddressHeader": "Edit Information",
+		"Addexisting": "Search Parameters",
+		"Addnew": "Client Enrollment",
+		"Edithousehold": "Edit Household Composition",
+		"ContactInfoHeader": "Contact Information"
+	},
+
+	"HeadingIo": {
+		"IdentifyingDetails": "Client Details",
+		"IdentificationDetails": "Identifications",
+		"DemographicDetails": "Demographics",
+		"IdentifyingHeading": "Client Information",
+		"DemographicHeading": "Client Information",
+		"RemoveLinkText": "remove"
+	},
+
+	"ProgramServices": {
+		"PageHeading": "Programs & Services",
+		"ReferOutHeading": "Referral",
+		"FollowUpHeader": "Follow Up"
+	},
+
+  "History": {
+    "HistoryHeading": "History",
+    "ServiceHeading": "Service History",
+    "CasenoteHeading": "Case Note History",
+    "GoalPlanHeading": "Family Goal Plan History"
+  },
+
+  "FamilyGoalPlan": {
+    "PlanHeading": "Family Goal Plans",
+    "CreatePlanHeading": "Start New Family Goal Plan"
+  },
+
+  "CaseNote": {
+    "CaseNoteHeading": "Case Note for Household 0"
+  },
+
+  "Income": {
+    "IncomeHeader": "Add Monthly Household Income"
+  },
+
+  "Programs": {
+    "HeaderFirst": "Programs",
+    "ProgramKeyword": "Income Assistance",
+    "ResultCount": "0 search results",
+    "CreateNewHeader": "Create A New Program",
+    "ProgramOverviewGenDetails": "General Details",
+    "ProgramOverviewEligReq": "Eligibility Requirements"
+  },
+
+  "Partners": {
+    "LandingHeader": "Search Partners",
+    "PartnerKeyword": "Kentucky Cares Assistance",
+    "PartnerResultHeader": "Partner Search",
+    "PartnerOverviewHeader": "Partner Overview",
+    "CreatePartnerHeader": "Create New Partner"
+  },
+
+  "FundingSource": {
+    "FundLandingHeader": "Find A Funding Source",
+    "FundSearchKeyword": "test funding 28-2",
+    "FundResultHeader": "Showing 0 Funding Sources",
+    "CreateNewHeader": "Create Funding Source",
+    "FunOverviewHeader": "Funding Source: test funding 28-2"
+  },
+
+  "Organization": {
+    "LinkLanded": "Organization",
+    "CreateOrg": "Create New Office"
+  },
+  "Users": {
+    "UserLink": "Users",
+    "CreateUser": "Create New User"
+  },
+
+  "Address": {
+  	  "HousingType": "Homeless",
+	  "StreetAddress1": "Address1",
+	  "StreetAddress2": "Address2",
+	  "City": "CityAddress",
+	  "State": "KY",
+	  "ZipCode": "10001",
+	  "County": "Allen"
+  },
+
+	"Finance": {
+		"TransmittalHeaderText": "Search Transmittals",
+		"SearchResultsText": "Search Results",
+		"CreateTransmittalHeaderText": "Create Transmittals",
+		"TransmittalOverviewHeaderText": "Transmittal Overview",
+		"VoidTransmittalButtonText": "Void Transmittal",
+		"StartDate": "10/5/2018",
+		"RemoveLinkText": "Remove",
+		"PaymentSearchHeader": "Search Payments",
+		"CreatePaymentHeader": "Search Applications"
+	}
+}
